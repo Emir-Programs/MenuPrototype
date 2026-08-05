@@ -1,0 +1,16 @@
+export const categories = [
+  { id: "best",  name: "Бестселлеры",            icon: "🏅" },
+  { id: "rec",   name: "Рекомендуется",           icon: "✅" },
+  { id: "new",   name: "Новое и примечательное",  icon: "⚠️" },
+  { id: "burg",  name: "Бургеры",                 icon: "🍔" },
+  { id: "twist", name: "Твистеры",                icon: "🌯" },
+  { id: "chick", name: "Сочная курочка",           icon: "🍗" },
+  { id: "des",   name: "Десерты",                 icon: "🍰" },
+  { id: "bask",  name: "Баскеты",                 icon: "🧺" },
+  { id: "sauce", name: "Соусы",                   icon: "🥫" },
+  { id: "shake", name: "Милкшейки",                icon: "🥤" },
+  { id: "fries", name: "Картошка и Снэки",         icon: "🍟" },
+  { id: "combo", name: "Комбо",                   icon: "➕" },
+  { id: "cold",  name: "Холодные напитки",         icon: "🧊" },
+  { id: "hot",   name: "Горячие напитки",          icon: "☕" },
+];
